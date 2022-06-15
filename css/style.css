@@ -1,7 +1,7 @@
 :root {
   --color-blue: ##374a37;
-  --color-blue-lighter-1: #336633;
-  --color-blue-lighter-2: #ffffff;
+  --color-blue-lighter-1: #ffffff;
+  --color-blue-lighter-2: #bae00d;
   --color-gray-light: #ffffff;
   --color-gray-dark: #374a37;
   --section-padding: clamp(4rem, 10vw, 12rem) 0rem;
